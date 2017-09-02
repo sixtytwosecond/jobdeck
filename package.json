@@ -1,0 +1,42 @@
+{
+  "name": "jobdeck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixtytwosecond/jobdeck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixtytwosecond/jobdeck/issues"
+  },
+  "homepage": "https://github.com/sixtytwosecond/jobdeck#readme",
+  "dependencies": {
+      "bluebird":"latest",
+      "redis":"latest",
+      "validator":"latest",
+      "passport-local":"latest",
+      "url":"latest",
+      "promise-mysql":"latest",
+      "react":"latest",
+      "react-dom":"latest",
+      "semantic-ui-react":"latest",
+      "redux":"latest",
+      "react-redux":"latest",
+      "react-infinite-calendar":"latest",
+      "draft-js":"latest",
+      "draft-js-export-html":"latest",
+      "i18next":"latest"
+  },
+  "devDependencies": {
+      "webpack":"latest",
+      "path":"latest",
+      "CompressionPlugin":"latest"
+  }
+}
